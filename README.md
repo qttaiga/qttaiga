@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @qttaiga
-- 👀 I’m interested in web develop
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning Javascript  
 
 <!---
